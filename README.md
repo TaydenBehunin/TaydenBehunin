@@ -5,6 +5,9 @@
 - 🤔 I’m looking for help with data engineering
 - 💬 Ask me about golf or snowboarding!
 
+
+### Languages and Tools
+<img align="left" width="100px" src="https://www.python.org/static/img/python-logo.png" />
 <!--
 **TaydenBehunin/TaydenBehunin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
