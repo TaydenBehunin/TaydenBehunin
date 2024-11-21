@@ -1,10 +1,4 @@
-### Hi there 👋
 
-🔭 I’m currently working on graduating from the Bloomtech program
-- 🔭 I’m currently working hands-on to contribute to Data Science and Machine Learning projects! 
-- 🌱 I’m exploring ETL, Portuguese
-- 🤔 I’m always open to discussing carrer opurtunities in Data Engineering
-- 💬 Ask me about golf or snowboarding!
 
 
 ## Languages and Tools
